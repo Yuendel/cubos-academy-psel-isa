@@ -1,2 +1,2 @@
 # cubos-academy-psel-isa
-Códigos feitos durante uma das fases do processo seletivo isa Cubos Academy programação do 0
+Códigos feitos durante uma das fases do processo seletivo isa Cubos Academy programação do 0. Onde foi dividido em pontos, com 3 niveis de questões 'Easy, Medium and Hard' com os pontos indo na ordem crescente por nivel. Foi bem divertido por fazer, exceto por 1 dos exercicios que quebrei um pouco mais a cabeça do que esperava. Sendo uma das etapas para o processo seletivo, consegui passar com sucesso.
